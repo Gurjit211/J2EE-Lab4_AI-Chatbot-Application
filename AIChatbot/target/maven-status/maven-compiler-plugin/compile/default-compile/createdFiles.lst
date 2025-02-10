@@ -1,0 +1,4 @@
+com\chatbot\aichatbot\Conversation.class
+com\chatbot\aichatbot\resources\JakartaEE10Resource.class
+com\chatbot\aichatbot\JakartaRestConfiguration.class
+com\chatbot\aichatbot\ChatbotServlet.class
